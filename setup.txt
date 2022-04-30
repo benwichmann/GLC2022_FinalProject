@@ -1,0 +1,6 @@
+#Helpful Commands for setting up
+
+!rm -rf GLC2022_FinalProject
+!git clone https://github.com/benwichmann/GLC2022_FinalProject.git
+
+pip install -r GLC2022_FinalProject/requirements.txt
