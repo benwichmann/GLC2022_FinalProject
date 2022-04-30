@@ -3,7 +3,7 @@ pandas
 sklearn
 keras
 tensorflow
-rasterio
+rasterio==1.0.24
 matplotlib
 jupyter
 jupyterlab
