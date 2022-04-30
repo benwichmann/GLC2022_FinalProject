@@ -1,10 +1,11 @@
 numpy
 pandas
 sklearn
-xgboost
 keras
 tensorflow
 rasterio
 matplotlib
 jupyter
 jupyterlab
+cartopy
+torch
